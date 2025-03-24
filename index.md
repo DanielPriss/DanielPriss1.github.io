@@ -9,14 +9,13 @@ hero_image_ratio: is-1by1
 ---
 
 # PRISSETTE Daniel
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en premier année 
 
 
-Disponible XX mois à partir de Date
-
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+Disponible a partir de mi juin jusqu'a mi juillet
+mail: daniel.prissette@etu.unilasalle.fr
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
+
 
